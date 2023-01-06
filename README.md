@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working on react js
 - 🌱 I’m currently learning react / redux / C / Linux
-<p align="center">
+
   <img src="https://badge.mediaplus.ma/greenbinary/abenheni" width="350" > 
  
-</p>
+
 
