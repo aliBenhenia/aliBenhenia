@@ -8,6 +8,6 @@
 - 🔭 I’m currently working on react js
 - 🌱 I’m currently learning react / redux / C / Linux
 
-  <img src="https://badge.mediaplus.ma/greenbinary/abenheni" width="350" > 
+  <img align ="center" src="https://badge.mediaplus.ma/greenbinary/abenheni" width="350" > 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliBenhenia)](https://github.com/anuraghazra/github-readme-stats)
