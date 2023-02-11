@@ -10,5 +10,4 @@
 
   <img src="https://badge.mediaplus.ma/greenbinary/abenheni" width="350" > 
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliBenhenia)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
