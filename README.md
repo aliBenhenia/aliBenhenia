@@ -4,6 +4,7 @@
 **aliBenhenia/aliBenhenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!-- ![Banner Image](https://github.com/aliBenhenia/aliBenhenia/blob/master/image/Banner.png) -->
+ [<img src="https://github.com/aliBenhenia/aliBenhenia/blob/main/ali%20(1000%20%C3%97%20500%20px)%20(1).gif"/>]
 
 - 🔭 I’m currently working on react js
 - 🌱 I’m currently learning react / redux / C / Linux
