@@ -14,7 +14,7 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aliBenhenia&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=aliBenhenia&show_icons=true&theme=gotham" alt="aliBenhenia" />
 
 
 
