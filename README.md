@@ -12,4 +12,10 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliBenhenia)](https://github.com/anuraghazra/github-readme-stats)
 
- <img align ="center" src="[https://badge.mediaplus.ma/greenbinary/abenheni](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)" width="350" > 
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aliBenhenia&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
+
+
