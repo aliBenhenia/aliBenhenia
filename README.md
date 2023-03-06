@@ -1,4 +1,4 @@
-### Hi there, i'am ali benhenia 👋
+### Hi there, i'm ali benhenia 👋
 
 <!--
 **aliBenhenia/aliBenhenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
