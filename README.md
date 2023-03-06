@@ -1,11 +1,9 @@
-### Hi there 👋
+### Hi there, i'am ali benhenia 👋
 
 <!--
 **aliBenhenia/aliBenhenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-- 🔭 I’m currently working on react js
 As a React JS developer, my primary goal is to create dynamic and interactive user interfaces that enhance the user experience. I have a solid foundation in React.js, as well as in JavaScript, HTML, and CSS. My experience working with React.js has given me a deep understanding of the component-based architecture and the virtual DOM, allowing me to create highly scalable and efficient applications.
 
 I am highly skilled in developing single-page applications (SPAs) and have experience in Redux, React Router, and Fetch api. I am comfortable working with RESTful APIs and integrating them into applications. I have also worked with popular UI libraries such as Ant Design, and Bootstrap, and have experience in customizing these libraries to meet specific design requirements.
