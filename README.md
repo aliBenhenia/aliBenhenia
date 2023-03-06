@@ -6,7 +6,13 @@
 
 
 - 🔭 I’m currently working on react js
-- 🌱 I’m currently learning react / redux / C / Linux
+As a React JS developer, my primary goal is to create dynamic and interactive user interfaces that enhance the user experience. I have a solid foundation in React.js, as well as in JavaScript, HTML, and CSS. My experience working with React.js has given me a deep understanding of the component-based architecture and the virtual DOM, allowing me to create highly scalable and efficient applications.
+
+I am highly skilled in developing single-page applications (SPAs) and have experience in Redux, React Router, and Fetch api. I am comfortable working with RESTful APIs and integrating them into applications. I have also worked with popular UI libraries such as Ant Design, and Bootstrap, and have experience in customizing these libraries to meet specific design requirements.
+
+In addition to my technical skills, I am a collaborative team player who is passionate about writing clean, maintainable code. I am committed to staying up-to-date with the latest technologies and best practices in React.js development. My ability to learn quickly and adapt to changing project requirements makes me a valuable addition to any development team.
+
+Overall, my experience as a React JS developer and my dedication to producing high-quality code makes me an ideal candidate for any employer looking for a skilled and motivated developer to join their team.
 
   <img align ="center" src="https://badge.mediaplus.ma/greenbinary/abenheni" width="350" > 
  
