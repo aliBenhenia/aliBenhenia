@@ -34,13 +34,3 @@ I am a React JS developer with expertise in JavaScript, HTML, and CSS. I special
   <img src="https://github.com/MehraDevesh2022/MehraDevesh2022/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation"> 
 </p>
 
-### ⚙️ &nbsp; Hacktoberfest PR Badges :
-
----
-
-<p align="center">
-
-[![An image of @itscodewithdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itscodewithdev)](https://holopin.io/@itscodewithdev)
-
-</p><br>
-
