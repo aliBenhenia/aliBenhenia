@@ -7,7 +7,7 @@
 I am a React JS developer with expertise in JavaScript, HTML, and CSS. I specialize in creating dynamic and interactive user interfaces that enhance the user experience. I have experience in developing single-page applications (SPAs) and have worked with popular UI libraries such as Ant Design and Bootstrap. I am comfortable working with RESTful APIs and integrating them into applications. I am a collaborative team player who is passionate about writing clean, maintainable code.
 
 
-  <img align ="center" src="https://badge.mediaplus.ma/greenbinary/abenheni" width="350" > 
+ <!-- <img align ="center" src="https://badge.mediaplus.ma/greenbinary/abenheni" width="350" >--> 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliBenhenia)](https://github.com/anuraghazra/github-readme-stats)
 
