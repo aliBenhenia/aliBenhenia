@@ -8,7 +8,6 @@ I am a React JS developer with expertise in JavaScript, HTML, and CSS. I special
 <p align="center">
   <b>Frontend</b>
   <br>
-  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="40"/></code>
   </a>
@@ -34,8 +33,6 @@ I am a React JS developer with expertise in JavaScript, HTML, and CSS. I special
 </p>
 
 <br>
-<br>
-
 <p align="center">
   <b>Backend</b>
   <br>
