@@ -20,7 +20,7 @@ I am a React JS developer with expertise in JavaScript, HTML, and CSS. I special
   <a href="https://www.typescriptlang.org" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
   </a>
-  <br>
+<!--   <br> -->
   <a href="https://reactjs.org" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/react.svg" alt="ReactJS" height="40"/></code>
   </a>
@@ -33,14 +33,14 @@ I am a React JS developer with expertise in JavaScript, HTML, and CSS. I special
 </p>
 
 <br>
+
 <p align="center">
   <b>Backend</b>
-  <br>
   <br>
   <a href="https://nodejs.org" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"/></code>
   </a>
-  <br>
+<!--   <br> -->
   <a href="https://expressjs.com" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="ExpressJS" height="40"/></code>
   </a>
