@@ -13,7 +13,7 @@ Web Developer
 I am Ali Benhenia, currently working in Finamaze, and peak 1337 student (42 network), I am a Tech enthusiast, learning about everything related to full stack development & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me playing games who knows :)
 
 * 🌍  I'm based in Casablanca (Morocco)
-* ✉️  You can contact me at [aymensarrar1@gmail.com](mailto:aymensarrar1@gmail.com)
+* ✉️  You can contact me at [alibenhenia1@gmail.com](mailto:alibenhenia1@gmail.com)
 * 🧠  I'm learning backend technologies
 * 🤝  I'm open to collaborating on everything
 
