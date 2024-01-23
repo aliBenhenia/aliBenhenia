@@ -4,14 +4,13 @@
 **aliBenhenia/aliBenhenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a React JS developer with expertise in JavaScript, HTML, and CSS. I specialize in creating dynamic and interactive user interfaces that enhance the user experience. I have experience in developing single-page applications (SPAs) and have worked with popular UI libraries such as Ant Design and Bootstrap. I am comfortable working with RESTful APIs and integrating them into applications. I am a collaborative team player who is passionate about writing clean, maintainable code.
-Hi 👋 My name is Aymane Sarrar
+Hi 👋 My name is Ali Benhenia
 ==============================
 
 Web Developer
 -------------
 
-I am Aymane Sarrar, currently working in Finamaze, and peak 1337 student (42 network), I am a Tech enthusiast, learning about everything related to full stack development & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me playing games who knows :)
+I am Ali Benhenia, currently working in Finamaze, and peak 1337 student (42 network), I am a Tech enthusiast, learning about everything related to full stack development & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me playing games who knows :)
 
 * 🌍  I'm based in Casablanca (Morocco)
 * ✉️  You can contact me at [aymensarrar1@gmail.com](mailto:aymensarrar1@gmail.com)
