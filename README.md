@@ -14,8 +14,8 @@
 ---
 
 ### 🚀 **Featured Projects**  
-1. **Ping Pong Platform** | [Live Demo](https://yourapp.com) | [GitHub](https://github.com/yourrepo)  
-   *MERN stack, Stripe payments, JWT auth*
+1. **Ping Pong web appliction** | [Live Demo](https://yourapp.com) | [GitHub](https://github.com/yourrepo)  
+   *MERN stack, JWT auth, next js*
    *Socket.IO, Tailwind CSS, Redux*
    ![Stars](https://img.shields.io/github/stars/yourrepo/ecommerce?style=social)
 
