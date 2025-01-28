@@ -35,6 +35,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alibenhenia1@gmail.com)
 
 ---
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.alibenhenia)  
 
-*Open to collaborations! Let’s build something awesome.* 🚀  
+*Open to collaborations! Let’s build something awesome.* 🚀   
