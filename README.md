@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Ali Benhenia
 ### **MERN Stack Developer | Open-Source Enthusiast | Problem Solver**  
 
 ---
@@ -14,38 +14,27 @@
 ---
 
 ### 🚀 **Featured Projects**  
-1. **E-Commerce Platform** | [Live Demo](https://yourapp.com) | [GitHub](https://github.com/yourrepo)  
-   *MERN stack, Stripe payments, JWT auth*  
+1. **Ping Pong Platform** | [Live Demo](https://yourapp.com) | [GitHub](https://github.com/yourrepo)  
+   *MERN stack, Stripe payments, JWT auth*
+   *Socket.IO, Tailwind CSS, Redux*
    ![Stars](https://img.shields.io/github/stars/yourrepo/ecommerce?style=social)
 
-2. **Real-Time Chat App** | [Live Demo](https://yourapp.com) | [GitHub](https://github.com/yourrepo)  
-   *Socket.IO, Tailwind CSS, Redux*  
-
-3. **Task Management Tool** | [GitHub](https://github.com/yourrepo)  
-   *React Query, Drag-and-Drop, REST API*  
+3. **Inception** | [Live Demo](https://yourapp.com) | [GitHub](https://github.com/yourrepo)  
+   *Docker-compose, Bash, Docker*                     
 
 ---
 
 ### 📊 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alibenhenia&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibenhenia&layout=compact&theme=radical)
 
 ---
 
 ### 🤝 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-benhenia-8a4a42206/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alibenhenia1@gmail.com)
 
 ---
-
-### 💡 **Fun Fact**  
-⚡ When I'm not coding, you'll find me [hobby, e.g., *playing chess, hiking, or brewing coffee*].  
-🎮 Fun Tech Joke: *"Why do programmers prefer dark mode? Because light attracts bugs!"*  
-
----
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)  
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.alibenhenia)  
 
 *Open to collaborations! Let’s build something awesome.* 🚀  
