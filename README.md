@@ -1,62 +1,49 @@
-Here’s a **shortened, professional version** of your profile, optimized for **job conversions, freelancing, and networking**:
+👋 Hi, I'm Ali Benhenia
+MERN Stack Developer | Open Source Contributor | DevOps-Ready
+🚀 About Me
+I'm a passionate MERN Stack Developer with a focus on building real-time, scalable, and user-focused web apps. I specialize in React, Next.js, Node.js, and Docker, delivering clean, efficient code across the stack.
 
----
+💻 Tech Stack
+Languages:
+JavaScript · TypeScript · C++ · Bash
 
-# 👋 Hi, I'm **Ali Benhenia**
+Frameworks & Libraries:
+React.js · Next.js · Express.js · Redux Toolkit · Tailwind CSS
 
-### **MERN Stack Developer | Open Source Contributor | Problem Solver**
+Databases:
+MongoDB · PostgreSQL
 
----
+Tools & Platforms:
+Docker · Git · GitHub · AWS · WebSockets (Socket.IO) · Linux
 
-### 🚀 **About Me**
+🏆 Key Achievements
+⚙️ Reduced deployment time by 60% using Docker Compose & microservices
 
-I’m a results-driven **MERN Stack Developer** passionate about building high-performance, scalable web apps using **React**, **Next.js**, **Node.js**, and **Docker**. From front-end optimization to backend APIs and containerized deployments, I deliver clean, maintainable code focused on real-world impact.
+🕹️ Built a real-time multiplayer game with Socket.IO and JWT
 
----
+💬 Developed a C++ IRC server supporting 100+ users with secure auth
 
-### 🛠️ **Tech Stack**
+🚀 Achieved 35% performance gain on production-grade cloud apps
 
-**Languages**: JavaScript, TypeScript, C++, Bash
-**Frameworks**: React, Next.js, Express, Tailwind, Redux
-**Databases**: MongoDB, PostgreSQL
-**Tools**: Docker, Git, AWS
+🌟 Featured Projects
+🔸 Ping Pong Web App
+Real-time game with MERN · JWT · Tailwind · Socket.IO
+→ Live multiplayer, friends system, responsive design
 
----
+🔸 Inception (Docker Project)
+Dockerized NGINX · WordPress · MariaDB setup
+→ Fast deployments with isolated volumes & networks
 
-### 🏆 **Highlights**
+🔸 IRC Server (C++)
+Real-time C++ IRC with secure multi-user chat
+→ OOP + socket programming with 99.9% uptime
 
-* ⚡️ **60% faster deployments** using Docker & Compose
-* 🧠 **Real-time game app** boosted engagement by **40%** (WebSockets)
-* 🔧 Built a robust **IRC server** in C++ handling **100+ users**
-* 📈 Improved cloud app performance by **35%** through containerized microservices
+📊 GitHub Stats
 
----
 
-### 💼 **Projects**
 
-**Ping Pong App** – MERN + WebSockets + JWT + Tailwind
-**Inception** – NGINX + WordPress + MariaDB in Docker
-**IRC Server** – Real-time C++ server with secure sessions
+🤝 Let’s Work Together
+📧 Email: alibenhenia1@gmail.com
+🔗 LinkedIn: Ali Benhenia
+💻 GitHub: alibenhenia
 
----
-
-### 📊 **GitHub**
-
-![Stats](https://github-readme-stats.vercel.app/api?username=alibenhenia\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibenhenia\&layout=compact\&theme=radical)
-
----
-
-### 🤝 **Let’s Connect**
-
-📧 [alibenhenia1@gmail.com](mailto:alibenhenia1@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/ali-benhenia-8a4a42206/)
-🌐 [GitHub](https://github.com/alibenhenia)
-
----
-
-*Let’s build something impactful — fast, scalable, and user-focused.* 🚀
-
----
-
-Let me know if you'd like a **portfolio landing page** or **CV version** of this too.
