@@ -1,74 +1,91 @@
-
 # 👋 Hi, I'm **Ali Benhenia**
 
-### **MERN Stack Developer | Open Source Contributor | DevOps-Ready**
+### **Front-End & MERN Stack Developer | Building Fast, Scalable, Production-Ready Apps**
+
+📍 Casablanca-Settat, Morocco  
+📧 alibenhenia1@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ali-benhenia/)  
+💻 [GitHub](https://github.com/alibenhenia)
 
 ---
 
-### 🚀 About Me
+### 🚀 Summary
 
-I'm a passionate **MERN Stack Developer** with a focus on building **real-time**, **scalable**, and **user-focused** web apps. I specialize in **React**, **Next.js**, **Node.js**, and **Docker**, delivering clean, efficient code across the stack.
+I’m a **front-end specialist** building **fast, scalable interfaces** with **Next.js, React, and TypeScript**. Experienced across the MERN stack, I handle projects **end-to-end**—from architecture and testing to Dockerized deployments on VPS and Vercel.  
 
----
-
-### 💻 Tech Stack
-
-**Languages:**
-JavaScript · TypeScript · C++ · Bash
-
-**Frameworks & Libraries:**
-React.js · Next.js · Express.js · Redux Toolkit · Tailwind CSS
-
-**Databases:**
-MongoDB · PostgreSQL
-
-**Tools & Platforms:**
-Docker · Git · GitHub · AWS · WebSockets (Socket.IO) · Linux
+A strategic, agile team player, I turn **complex ideas into clean, maintainable code**, collaborating to deliver **innovative, production-ready solutions**.
 
 ---
 
-### 🏆 Key Achievements
+### 💼 Experience
 
-* ⚙️ **Reduced deployment time by 60%** using Docker Compose & microservices
-* 🕹️ Built a **real-time multiplayer game** with Socket.IO and JWT
-* 💬 Developed a **C++ IRC server** supporting 100+ users with secure auth
-* 🚀 Achieved **35% performance gain** on production-grade cloud apps
+**Full Stack Developer** | Onedustry Technologies | Casablanca-Settat, Morocco  
+- Built **responsive, scalable UI components** with Next.js, TypeScript, and Tailwind CSS  
+- Applied **modern design patterns** for maintainable code  
+- Integrated **RESTful APIs** with Axios and managed state via Redux Toolkit  
+- Optimized performance using **dynamic imports**  
+- Collaborated in an **Agile environment** with designers and backend developers  
+
+**Developer & Technology Job Simulation** | Accenture | Remote  
+- Learned **SDLC, STLC, Agile methodologies, algorithmic thinking**  
+- Hands-on simulation with **backend & frontend integration, testing, and development**
+
+---
+
+### 🎓 Education
+
+**Software Engineer - Software Architect** | 1337 Coding School  
+- Peer-to-peer, project-based learning emphasizing **self-directed growth and real-world coding experience**
+
+---
+
+### 🛠 Skills
+
+**Programming Languages:** TypeScript · JavaScript · HTML5 · CSS3 · C · C++ · NoSQL  
+**Front-End:** Next.js · React · Tailwind CSS · Ant Design · shadcn/ui  
+**Back-End:** Node.js · Express.js · REST APIs · Mongoose · JWT  
+**Databases:** MongoDB  
+**DevOps & Deployment:** Docker · GitHub Actions CI/CD · Vercel · VPS  
+**Testing & Tools:** Jest · Postman · Git · VS Code  
 
 ---
 
 ### 🌟 Featured Projects
 
-**🔸 Ping Pong Web App**
-Real-time game with MERN · JWT · Tailwind · Socket.IO
-→ Live multiplayer, friends system, responsive design
+**🔸 Ping Pong Platform**  
+Tech: Next.js · TypeScript · Django-Rest · Tailwind · Redux  
+- Real-time multiplayer UI, responsive across devices  
+- WebSocket chat & live friends system, boosting engagement by 40%  
+- Reduced UI drop-offs by 30% and increased session length by 25%  
 
-**🔸 Inception (Docker Project)**
-Dockerized NGINX · WordPress · MariaDB setup
-→ Fast deployments with isolated volumes & networks
+**🔸 Prompt-Forge**  
+Tech: Next.js · TypeScript · Express.js · Tailwind · JWT · AI  
+- Dashboard with AI-driven features: code explanations, bug fixes, smart regex generation  
+- Integrated DeepSeek AI for instant code search, reducing lookup times by 30%  
+- Secure platform with JWT auth & role-based access  
 
-**🔸 IRC Server (C++)**
-Real-time C++ IRC with secure multi-user chat
-→ OOP + socket programming with 99.9% uptime
+**🔸 TripNest Travel**  
+Tech: Next.js · TypeScript · Express.js · Tailwind · JWT · Docker · NGINX · VPS · MongoDB  
+- Modern travel web app with itinerary & stops management, profile management  
+- Clean architecture, responsive design across desktop, tablet, and mobile  
+
+**🔸 Dev Jobs**  
+Tech: Next.js · TypeScript · SOLID · Clean Architecture  
+- High-performance job board fetching listings from external APIs  
+- Curated filters, detailed job pages, and real-time role & company info  
 
 ---
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alibenhenia\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibenhenia\&layout=compact\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=alibenhenia&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibenhenia&layout=compact&theme=radical)
 
 ---
 
-### 🤝 Let’s Work Together
+### 🤝 Let’s Collaborate
 
-📧 **Email:** [alibenhenia1@gmail.com](mailto:alibenhenia1@gmail.com)
-🔗 **LinkedIn:** [Ali Benhenia](https://www.linkedin.com/in/ali-benhenia-8a4a42206/)
-💻 **GitHub:** [alibenhenia](https://github.com/alibenhenia)
-
----
-
-> 💡 *Need a full-stack developer who ships fast, scales smart, and thinks product-first? Let’s connect and build something impactful.* 🚀
-
----
-
-Let me know if you want a **shorter version for Upwork**, or a **PDF/Markdown export** for your profile!
+💡 Need a **front-end / MERN developer** who builds **fast, scalable, and user-focused apps**? Let’s connect!  
+📧 Email: alibenhenia1@gmail.com  
+🔗 LinkedIn: [Ali Benhenia](https://www.linkedin.com/in/ali-benhenia/)  
+💻 GitHub: [alibenhenia](https://github.com/alibenhenia)
