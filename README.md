@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Ali Benhenia**
 
-### **Front-End & MERN Stack Developer | Building Fast, Scalable, Production-Ready Apps**
+### **Back-End & MERN Stack Developer | Building Fast, Scalable, Production-Ready Apps**
 
 📍 Casablanca-Settat, Morocco  
 📧 alibenhenia1@gmail.com  
