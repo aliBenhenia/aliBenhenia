@@ -85,7 +85,7 @@ Tech: Next.js · TypeScript · SOLID · Clean Architecture
 
 ### 🤝 Let’s Collaborate
 
-💡 Need a **front-end / MERN developer** who builds **fast, scalable, and user-focused apps**? Let’s connect!  
+💡 Need a **back-end / MERN developer** who builds **fast, scalable, and user-focused apps**? Let’s connect!  
 📧 Email: alibenhenia1@gmail.com  
 🔗 LinkedIn: [Ali Benhenia](https://www.linkedin.com/in/ali-benhenia/)  
 💻 GitHub: [alibenhenia](https://github.com/alibenhenia)
