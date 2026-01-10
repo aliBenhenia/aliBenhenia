@@ -11,7 +11,7 @@
 
 ### 🚀 Summary
 
-I’m a **back-end specialist** building **fast, scalable interfaces** with **Next.js, React, and TypeScript**. Experienced across the MERN stack, I handle projects **end-to-end**—from architecture and testing to Dockerized deployments on VPS and Vercel.  
+I’m a **full-stack specialist** building **fast, scalable interfaces** with **Next.js, React, and TypeScript**. Experienced across the MERN stack, I handle projects **end-to-end**—from architecture and testing to Dockerized deployments on VPS and Vercel.  
 
 A strategic, agile team player, I turn **complex ideas into clean, maintainable code**, collaborating to deliver **innovative, production-ready solutions**.
 
