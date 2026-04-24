@@ -2,14 +2,14 @@
 
 ### **Software Engineer | Full-Stack (Next.js & MERN) | End-to-End System Creator**
 
-📍 Casablanca-Settat, Morocco
+📍 Morocco
 📧 [alibenhenia1@gmail.com](mailto:alibenhenia1@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/ali-benhenia/)
 💻 [GitHub](https://github.com/alibenhenia)
 
 ---
 
-### 🚀 Summary
+###  Summary
 
 I’m a **full-stack software engineer** specializing in **building fast, scalable, and production-ready applications**. I design, develop, test, and deploy **end-to-end systems**, from initial architecture to CI/CD pipelines on **Vercel or VPS**.
 
@@ -88,7 +88,7 @@ Tech: Next.js · TypeScript · SOLID · Clean Architecture
 ---
 
 ### 📊 GitHub Stats
-
+💼
 ![Stats](https://github-readme-stats.vercel.app/api?username=alibenhenia\&show_icons=true\&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibenhenia\&layout=compact\&theme=radical)
 
