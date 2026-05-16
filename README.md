@@ -1,104 +1,73 @@
 # 👋 Hi, I'm **Ali Benhenia**
 
-### **Software Engineer | Full-Stack (Next.js & MERN) | End-to-End System Creator**
+### **Full-Stack Engineer | Shipped from Code to Production**
 
-📍 Morocco
-📧 [alibenhenia1@gmail.com](mailto:alibenhenia1@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/ali-benhenia/)
-💻 [GitHub](https://github.com/alibenhenia)
+📍 Morocco · 📧 [alibenhenia1@gmail.com]() · 🔗 [LinkedIn](https://www.linkedin.com/in/ali-benhenia/) · 💻 [GitHub](https://github.com/alibenhenia)
 
 ---
 
-###  Summary
+### ⚡ TL;DR
 
-I’m a **full-stack software engineer** specializing in **building fast, scalable, and production-ready applications**. I design, develop, test, and deploy **end-to-end systems**, from initial architecture to CI/CD pipelines on **Vercel or VPS**.
-
-I thrive in **agile teams**, turning **complex requirements into maintainable code**, with a focus on **robust testing, clean architecture, and user-centered design**.
+I don't just write code—I build, test, and deploy entire systems from scratch. Trained in the peer-to-peer trenches of **1337 Coding School**, I focus on writing clean Next.js/MERN architecture that handles real-world traffic, backed by solid CI/CD pipelines and zero-fuzz testing. If it needs an API, a solid database schema, and a seamless deployment to a VPS, I'm on it.
 
 ---
 
-### 💼 Experience
+### 💼 The Journey So Far
 
-**Full Stack Developer** | Onedustry Technologies | Casablanca-Settat, Morocco
+**Full Stack Developer** | Onedustry Technologies
 
-* Built **responsive, scalable UI components** with Next.js, TypeScript, and Tailwind CSS
-* Applied **modern design patterns** and clean architecture for maintainable projects
-* Integrated **RESTful APIs** with Axios, state management via Redux Toolkit
-* Optimized performance with **dynamic imports and code splitting**
-* Collaborated in an **Agile environment**, implementing **end-to-end solutions** from frontend to backend
+* Shipped responsive, scalable UIs using **Next.js, TypeScript, and Tailwind CSS**.
+* Optimized performance via **dynamic imports and code splitting** to keep load times low.
+* Hooked up robust state management (**Redux Toolkit**) and clean API layers (**Axios**).
 
-**Developer & Technology Job Simulation** | Accenture | Remote
+**Developer Simulation** | Accenture
 
-* Hands-on simulation covering **full software lifecycle**: design, coding, testing, deployment
-* Learned **SDLC, STLC, Agile practices, and system design**
-* Built and tested integrated **front-end & back-end applications**, ensuring functional and user-focused solutions
+* Dove deep into the full software lifecycle: architectural design, testing strategies, and Agile deployments.
+
+---
+
+### 🛠️ Tech Stack & Weapons of Choice
+
+* **Languages & Core:** TypeScript, JavaScript, C, C++
+* **Frontend:** Next.js, React, Tailwind CSS, shadcn/ui
+* **Backend & DB:** Node.js, Express.js, REST APIs, MongoDB, Redis
+* **DevOps & Testing:** Docker, Nginx, GitHub Actions, Jest, VPS/Vercel deployment
+
+---
+
+###  Featured Projects
+
+**🔸 Ping Pong Platform** (`Next.js` · `Django` · `WebSockets`)
+
+* Built a real-time multiplayer gaming hub with a live chat and matchmaking system.
+* Wrote rigorous end-to-end tests that cut UI drop-offs by 30%.
+
+**🔸 Prompt-Forge** (`Next.js` · `Express` · `DeepSeek AI`)
+
+* Created an AI-powered dev dashboard for instant code explanations and smart regex generation.
+* Secured everything with JWT role-based access.
+
+**🔸 TripNest Travel** (`Next.js` · `Docker` · `NGINX` · `VPS`)
+
+* Developed a full-stack travel app containerized with Docker and reverse-proxied with Nginx on a live VPS.
 
 ---
 
 ### 🎓 Education
 
-**Software Engineer & Software Architect** | 1337 Coding School
+**Software Engineering & Architecture** | 1337 Coding School (42 Network)
 
-* Project-based learning emphasizing **end-to-end system creation, testing, and deployment**
-* Developed **real-world applications** with a focus on maintainability and scalability
-
----
-
-### 🛠 Skills
-
-**Programming Languages:** TypeScript · JavaScript · HTML5 · CSS3 · C · C++ · NoSQL
-**Front-End:** Next.js · React · Tailwind CSS · Ant Design · shadcn/ui
-**Back-End:** Node.js · Express.js · REST APIs · Mongoose · JWT
-**Databases:** MongoDB
-**DevOps & Deployment:** Docker · GitHub Actions CI/CD · Vercel · VPS
-**Testing & QA:** Jest · Postman · Unit & Integration Testing · End-to-End Testing
-**Tools & Collaboration:** Git · VS Code · Agile Methodologies
+* 100% project-based, peer-to-peer coding. No lectures, just hard engineering, system design, and continuous delivery.
 
 ---
 
-### 🌟 Featured Projects
-
-**🔸 Ping Pong Platform**
-Tech: Next.js · TypeScript · Django-Rest · Tailwind · Redux
-
-* Real-time multiplayer platform with responsive design
-* WebSocket chat & live friends system, boosting engagement by 40%
-* **End-to-end system testing**, reducing UI drop-offs by 30% and increasing session length by 25%
-
-**🔸 Prompt-Forge**
-Tech: Next.js · TypeScript · Express.js · Tailwind · JWT · AI
-
-* AI-powered dashboard for code explanations, bug fixes, smart regex generation
-* Integrated DeepSeek AI for fast code search, cutting lookup times by 30%
-* **Full-stack security and role-based access** with JWT
-
-**🔸 TripNest Travel**
-Tech: Next.js · TypeScript · Express.js · Tailwind · JWT · Docker · NGINX · VPS · MongoDB
-
-* Modern travel web app with itinerary & profile management
-* Implemented **clean architecture and end-to-end testing** across devices
-
-**🔸 Dev Jobs**
-Tech: Next.js · TypeScript · SOLID · Clean Architecture
-
-* High-performance job board fetching listings from multiple APIs
-* Curated filters, detailed pages, and real-time role & company info
-* Ensured **robust system integration and testing** for production readiness
+### 📊 GitHub Pulse
 
 ---
 
-### 📊 GitHub Stats
-💼
-![Stats](https://github-readme-stats.vercel.app/api?username=alibenhenia\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibenhenia\&layout=compact\&theme=radical)
+### 🤝 Let's Build Something
 
----
+Need an engineer who can own a feature from the database schema up to the frontend UI and deployment? Drop me a line.
 
-### 🤝 Let’s Collaborate
-
-💡 Need a **software engineer** to build **end-to-end systems**, from architecture to testing and deployment? Let’s connect!
-📧 Email: [alibenhenia1@gmail.com](mailto:alibenhenia1@gmail.com)
-🔗 LinkedIn: [Ali Benhenia](https://www.linkedin.com/in/ali-benhenia/)
-💻 GitHub: [alibenhenia](https://github.com/alibenhenia)
-
-
+* **Email:** [alibenhenia1@gmail.com]()
+* **LinkedIn:** [Ali Benhenia](https://www.linkedin.com/in/ali-benhenia/)
