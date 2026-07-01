@@ -22,4 +22,3 @@ I build web apps from scratch and make sure they actually work in production. Bo
 
 ---
 
-💬 **Let's talk:** Need someone to own a feature from the database schema up to the live UI? Drop me a line.
